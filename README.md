@@ -1,2 +1,8 @@
-# Virtual-Fiber-Braiding-Simulation
-Translation:  A one-stop Python scripting solution for quasi-fiber-level three-dimensional braiding simulation based on the four-step method. You only need to download Abaqus 2024, open the software, run the script, and click “Job → Run” to perform four-step-method-based virtual fiber braiding simulations.
+# 四步法准纤维级三维编织仿真 Python 脚本
+
+本项目提供一套基于四步法的准纤维级三维编织仿真 Python 脚本，实现一站式建模与仿真。  
+在 Abaqus 2024 中运行脚本即可自动完成模型建立、材料属性赋予、网格划分、通用接触设置、显示动力学分析步生成以及任务发布等操作。  
+
+**使用方法**：下载 Abaqus 2024 → 打开软件 → 运行 `main.py` → 点击“任务 → 运行”。  
+适用于快速生成准纤维级三维编织模型，并支持大规模并行计算与双精度任务。  
+享受高效便捷的虚拟纤维编织仿真体验！
